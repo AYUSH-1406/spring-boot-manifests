@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: app
-        image: ayush1406/spring-boot-app:REPLACE_ME
+        image: ayush1406/spring-boot-app:aad6883a763d4ab164a3fa4551ccf943c7136984
         ports:
         - containerPort: 8080
